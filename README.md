@@ -22,7 +22,7 @@ Soy desarrollador Frontend amante de la programación y el diseño.
 - [Contador básico en JS vanilla](https://counter-xi.vercel.app/)
 - [Generador de colores](https://colorflipper-carandev.vercel.app/)
 - [Notas aleatorias](https://random-quotes-azure.vercel.app/)
-- [Hacer lista de regalos para navidad](https://adviency.vercel.app/) (En construcción)
+- [Landing page de sunnyside](https://carandev.github.io/sunnyside-agency-landing-page/)
 
 <br />
 
