@@ -26,7 +26,7 @@ Soy desarrollador Frontend amante de la programación y el diseño.
 
 <br />
 
-<img align="right" alt="GIF" src="./assets/profile.jpg" width="240px" />
+<!-- <img align="right" alt="GIF" src="./assets/profile.jpg" width="240px" /> -->
 
 <br />
 
