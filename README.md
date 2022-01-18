@@ -16,6 +16,14 @@ Soy desarrollador Frontend amante de la programación y el diseño.
 
 <br/>
 
+## Proyectos
+
+- [Ecommerce en React con Firebase](https://marketcommerce.vercel.app/)
+- [Contador básico en JS vanilla](https://counter-xi.vercel.app/)
+- [Generador de colores](https://colorflipper-carandev.vercel.app/)
+- [Notas aleatorias](https://random-quotes-azure.vercel.app/)
+- [Hacer lista de regalos para navidad](https://adviency.vercel.app/) (En construcción)
+
 <br />
 
 <img align="right" alt="GIF" src="./assets/profile.jpg" width="240px" />
@@ -30,7 +38,7 @@ Soy desarrollador Frontend amante de la programación y el diseño.
 
 <br />
 
-## Languages and Tools
+## Lenguajes y Herramientas
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
