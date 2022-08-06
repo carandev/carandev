@@ -21,7 +21,7 @@ Soy desarrollador Frontend amante de la programación y el diseño.
 - [Ecommerce en React con Firebase](https://marketcommerce.vercel.app/)
 - [Contador básico en JS vanilla](https://counter-xi.vercel.app/)
 - [Generador de colores](https://colorflipper-carandev.vercel.app/)
-- [Notas aleatorias](https://random-quotes-azure.vercel.app/)
+- [Adviency](https://adviency.carandev.me)
 - [Landing page de sunnyside](https://sunnysidelanding.vercel.app/)
 
 <br />
