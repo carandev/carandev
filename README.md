@@ -2,6 +2,8 @@
 
 Soy desarrollador Frontend amante de la programación y el diseño.
 
+Puedes saber más de mi en <a style="font-size: 18px" href="https://carandev.me">carandev.me</a>
+
 <br/>
 
 <a href="https://twitter.com/carandev">
