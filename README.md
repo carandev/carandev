@@ -1,51 +1,91 @@
-## Hola 👋 Mi nombre es Carlos Gomez
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=carandev&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-Soy desarrollador Frontend amante de la programación y el diseño.
-
-Puedes saber más de mi en <a style="font-size: 18px" href="https://carandev.me">carandev.me</a>
-
-<br/>
-
-<a href="https://twitter.com/carandev">
-<img align="left" alt="Twitter de Carlos Gomez" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://linkedin.com/in/carandev">
-<img align="left" alt="LinkedIN de Carlos Gomez" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://twitch.tv/carandev">
-<img align="left" alt="Twitch de Carlos Gomez" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=440&lines=Systems+Engineering+Student;Fullstack+Developer+%C2%B7+.NET+%2B+React;Continuous+Learner+%F0%9F%93%9A;Fantasy+Book+Lover+%F0%9F%90%89;Building+things+that+matter" alt="Typing SVG" />
+</div>
 
 <br/>
 
-## Proyectos
+Systems engineering student and fullstack developer passionate about building clean, functional software.
+When I'm not coding, I'm exploring 3D design or getting lost in a fantasy novel.
 
-- [Ecommerce en React con Firebase](https://marketcommerce.vercel.app/)
-- [Contador básico en JS vanilla](https://counter-xi.vercel.app/)
-- [Generador de colores](https://colorflipper-carandev.vercel.app/)
-- [Adviency](https://adviency.carandev.me)
-- [Landing page de sunnyside](https://sunnysidelanding.vercel.app/)
+<br/>
 
-<br />
+<div align="center">
 
-<br />
+### Frontend
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 
-## Sobre Mi
+### Backend
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-- 🔭 Actualmente estoy buscando trabajo.
-- 🌱 Estoy usando [React](https://reactjs.org).
-- 💬 Empezando a crear contenido en [Twitch](https://twitch.gonzalopozzo.com).
+### Database
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-<br />
+### Tools
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-## Lenguajes y Herramientas
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+</div>
 
----
+<br/>
 
-![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=carandev&show_icons=true&hide_border=true)
+## Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Portfolio | Personal portfolio site built with vanilla HTML/CSS/JS | [carandev.me](https://www.carandev.me/) |
+| Flat Brutal UI | Razor component library with brutalist design system | [flatbrutal.carandev.me](https://flatbrutal.carandev.me/) |
+| Accounting Manager | Personal finance management web app | [accounting-manager.carandev.me](https://accounting-manager.carandev.me/) |
+| BACPAC Manager | JetBrains plugin to import .bacpac files into SQL Server | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/29903-sql-server-bacpac-manager) |
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carandev&theme=dracula&hide_border=true&show_icons=true&cache_seconds=86400" height="180" />
+  <img src="https://streak-stats.demolab.com?user=carandev&theme=dracula&hide_border=true&cache_seconds=86400" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carandev&layout=compact&theme=dracula&hide_border=true&hide=html&cache_seconds=86400" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carandev&theme=dracula&no-bg=true&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carandev&theme=github-compact&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carandev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/carandev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/carandev"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@carandev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.carandev.me/"><img src="https://img.shields.io/badge/Portfolio-FF5555?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:carlos@carandev.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
+</div>
