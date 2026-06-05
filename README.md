@@ -51,20 +51,14 @@ When I'm not coding, I'm exploring 3D design or getting lost in a fantasy novel.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carandev&theme=dracula&hide_border=true&show_icons=true&cache_seconds=86400" height="180" />
   <img src="https://streak-stats.demolab.com?user=carandev&theme=dracula&hide_border=true&cache_seconds=86400" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carandev&layout=compact&theme=dracula&hide_border=true&hide=html&cache_seconds=86400" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carandev&theme=dracula&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carandev&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carandev&theme=dracula" />
 </div>
 
 <br/>
