@@ -1,85 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=carandev&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=440&lines=Systems+Engineering+Student;Fullstack+Developer+%C2%B7+.NET+%2B+React;Continuous+Learner+%F0%9F%93%9A;Fantasy+Book+Lover+%F0%9F%90%89;Building+things+that+matter" alt="Typing SVG" />
-</div>
+<img src="assets/hero.svg" width="100%" alt="Hi! I'm Carlos Gómez, fullstack developer working with .NET and React. Systems engineering student passionate about building clean, functional software. When I'm not coding, I'm exploring 3D design or getting lost in a fantasy novel." />
 
+<img src="assets/stack.svg" width="100%" alt="Stack. Frontend: React, Next.js, Tailwind CSS, Vite, Blazor. Backend: .NET, C#, Node.js. Database: Firebase, SQL Server. Tools: Git, GitHub Actions." />
+
+<img src="assets/heading-projects.svg" width="100%" alt="02, projects: Things I've built" />
+
+<a href="https://www.carandev.me/"><img src="assets/project-portfolio.svg" width="49%" alt="Portfolio: personal portfolio site built with vanilla HTML/CSS/JS" /></a>
+<a href="https://flatbrutal.carandev.me/"><img src="assets/project-flat-brutal.svg" width="49%" alt="Flat Brutal UI: Razor component library with brutalist design system" /></a>
+<a href="https://accounting-manager.carandev.me/"><img src="assets/project-accounting.svg" width="49%" alt="Accounting Manager: personal finance management web app" /></a>
+<a href="https://plugins.jetbrains.com/plugin/29903-sql-server-bacpac-manager"><img src="assets/project-bacpac.svg" width="49%" alt="BACPAC Manager: JetBrains plugin to import .bacpac files into SQL Server" /></a>
+
+<img src="assets/heading-activity.svg" width="100%" alt="03, activity: Lately on GitHub" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=carandev&background=1A1513&border=3A302B&stroke=3A302B&ring=7DBF9C&fire=F08AA6&currStreakNum=EDE4D8&sideNums=EDE4D8&currStreakLabel=7DBF9C&sideLabels=B9AC9E&dates=B9AC9E&disable_animations=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=carandev&background=FAF7F2&border=E5DACB&stroke=E5DACB&ring=386F54&fire=9B1D43&currStreakNum=2C221E&sideNums=2C221E&currStreakLabel=386F54&sideLabels=5A4C46&dates=5A4C46&disable_animations=true&cache_seconds=86400" height="180" alt="GitHub streak stats" />
+</picture>
 <br/>
 
-Systems engineering student and fullstack developer passionate about building clean, functional software.
-When I'm not coding, I'm exploring 3D design or getting lost in a fantasy novel.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carandev&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carandev&theme=solarized" width="49%" alt="Repositories per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carandev&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carandev&theme=solarized" width="49%" alt="Most committed languages" />
+</picture>
 
-<br/>
+<img src="assets/contact.svg" width="100%" alt="04, let's talk? Find me around the web." />
 
-<div align="center">
+<a href="mailto:carlos@carandev.me"><img src="assets/button-email.svg" height="54" alt="Email" /></a>
+<a href="https://www.carandev.me/"><img src="assets/button-portfolio.svg" height="54" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/carandev/"><img src="assets/button-linkedin.svg" height="54" alt="LinkedIn" /></a>
+<a href="https://twitter.com/carandev"><img src="assets/button-twitter.svg" height="54" alt="Twitter" /></a>
+<a href="https://www.twitch.tv/carandev"><img src="assets/button-twitch.svg" height="54" alt="Twitch" /></a>
+<a href="https://www.youtube.com/@carandev"><img src="assets/button-youtube.svg" height="54" alt="YouTube" /></a>
 
-### Frontend
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-
-### Backend
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-### Database
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-### Tools
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio | Personal portfolio site built with vanilla HTML/CSS/JS | [carandev.me](https://www.carandev.me/) |
-| Flat Brutal UI | Razor component library with brutalist design system | [flatbrutal.carandev.me](https://flatbrutal.carandev.me/) |
-| Accounting Manager | Personal finance management web app | [accounting-manager.carandev.me](https://accounting-manager.carandev.me/) |
-| BACPAC Manager | JetBrains plugin to import .bacpac files into SQL Server | [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/29903-sql-server-bacpac-manager) |
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=carandev&theme=dracula&hide_border=true&cache_seconds=86400" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carandev&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carandev&theme=dracula" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carandev&theme=github-compact&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/carandev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/carandev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/carandev"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@carandev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.carandev.me/"><img src="https://img.shields.io/badge/Portfolio-FF5555?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:carlos@carandev.me"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 </div>
